@@ -4,8 +4,8 @@ Here we track general research across all Platform related activities.
 
 | Activity | Description | Date | Link | 
 | ------------- | ------------- | ------------- | ------------- |
-| DeFi category | info | Dec, 2023 | [link](https://web3-privacy-git-dw-tweaks-develit-io.vercel.app/category/defi) |
-| ETHRome prototype | info | Oct, 2023 | [link](https://web3privacy-app.vercel.app/) |
+| DeFi category | Latest clickable prototype in sync with scoring MVP, basic data profile & DeFi category | Dec, 2023 | [link](https://web3-privacy-git-dw-tweaks-develit-io.vercel.app/category/defi) |
+| ETHRome prototype | Live demo built during ETHRome hackathon | Oct, 2023 | [link](https://web3privacy-app.vercel.app/) |
 
 ## UI
 
@@ -14,7 +14,7 @@ Here we track general research across all Platform related activities.
 | 1.2 | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v12-post-ethrome-update-basic-scoring-x-brief-sync) |
 | 1.1 (mobile) | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update-mobile-version) |
 | 1.1 (desktop) | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update) |
-| 1.0 (desktop) | info | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype) |
+| 1.0 (desktop) | Initial prototype built during ETHRome hackathon based on [data manifesto](https://github.com/web3privacy/data/tree/main#readme) | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype) |
 
 ## Dataset
 
