@@ -1,4 +1,4 @@
-Here we track general research across all Platform related activities.
+Here we track general research across all [Platform](https://github.com/web3privacy/Platform/tree/main/Web3privacynowplatform) related activities.
 
 ## Prototype
 
