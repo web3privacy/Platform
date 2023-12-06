@@ -1,5 +1,9 @@
 Here we track general research across all [Platform](https://github.com/web3privacy/Platform/tree/main/Web3privacynowplatform) related activities.
 
+**Current stage**: MVP prototyping
+- Define minimum dataset + scoring to be deployed
+- Deliver sync between Platform & GitHub data inputs (to be updated over time)
+
 ## Prototype
 
 | Activity | Description | Date | Link | 
