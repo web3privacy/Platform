@@ -5,7 +5,7 @@ Here we track general research across all Platform related activities.
 | Activity | Description | Date | Link | 
 | ------------- | ------------- | ------------- | ------------- |
 | DeFi category | info | Dec, 2023 | [link](https://web3-privacy-git-dw-tweaks-develit-io.vercel.app/category/defi) |
-| ETHRome prototype | info | Sep, 2023 | [link](https://web3privacy-app.vercel.app/) |
+| ETHRome prototype | info | Oct, 2023 | [link](https://web3privacy-app.vercel.app/) |
 
 ## UI
 
@@ -14,7 +14,7 @@ Here we track general research across all Platform related activities.
 | 1.2 | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v12-post-ethrome-update-basic-scoring-x-brief-sync) |
 | 1.1 (mobile) | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update-mobile-version) |
 | 1.1 (desktop) | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update) |
-| 1.0 (desktop) | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype) |
+| 1.0 (desktop) | info | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype) |
 
 ## Dataset
 
@@ -26,7 +26,7 @@ Here we track general research across all Platform related activities.
 | Data brief x Scoring model | info | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Data%20brief%20%26%20scoring%20model%20comparison.md) |
 | Data brief | info | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md#basic-info) |
 | Typeform questionaire | info | Sep, 2023 | [link](https://gy0n92ttldn.typeform.com/to/clX8HhGi) |
-| ETHRome data set concept | Machine-readable data manifest | Sep, 2023 | [link](https://github.com/web3privacy/data/tree/main#readme) |
+| ETHRome data set concept | Machine-readable data manifest | Oct, 2023 | [link](https://github.com/web3privacy/data/tree/main#readme) |
 | Source database | info | Nov, 2022 | [link](https://github.com/web3privacy/web3privacy) |
 
 ## Scoring model
