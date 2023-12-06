@@ -31,6 +31,14 @@ Here we track general research across all Platform related activities.
 
 ## Scoring model
 
-| Original idea  | Privacy market survey | Scoring model MVP | Community feedback model 1.1 | ETHRome data set | DeFi category scoring x model 1.2 | Playbook for non-techies 1.3 |
-| ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- |
-| [link](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform)  | [link](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Survey) | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Web3Privacy%20Now%20scoring%20platform_test%20framework.pdf)  | [link](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU) | [link](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea) | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md) | [link](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) |
+ | ETHRome data set | DeFi category scoring x model 1.2 | Playbook for non-techies 1.3 |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md) | [link](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) |
+
+| Activity | Description | Date | Link | 
+| ------------- | ------------- | ------------- | ------------- |
+| Playbook for non-techies 1.3  | info | Oct, 2023 | [link](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) |
+| DeFi category scoring x model 1.2  | info | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md) |
+| Community feedback model 1.1  | info | Jan, 2023 | [link](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU) |
+| Scoring model MVP  | info | Jan, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Web3Privacy%20Now%20scoring%20platform_test%20framework.pdf) |
+| Privacy market survey  | info | Jan, 2023 | [link](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Survey) |
+| Original idea  | info | Jan, 2023 | [link](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform) |
