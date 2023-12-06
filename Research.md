@@ -31,9 +31,6 @@ Here we track general research across all Platform related activities.
 
 ## Scoring model
 
- | ETHRome data set | DeFi category scoring x model 1.2 | Playbook for non-techies 1.3 |
-| ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md) | [link](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) |
-
 | Activity | Description | Date | Link | 
 | ------------- | ------------- | ------------- | ------------- |
 | Playbook for non-techies 1.3  | info | Oct, 2023 | [link](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) |
