@@ -9,6 +9,11 @@ Here we track general research across all Platform related activities.
 
 ## UI
 
+**Research purposes**
+- _Non-techies readiness_: find, specify & map key parameters non-technical person could consider during privacy assessment
+- _Machine-readable data_: find data that can be scrapped in the future & minimise human error
+- _Communal effort_: get active community feedback on scoring - make it communal & less subjective
+
 | Version | Description | Date | Link | 
 | ------------- | ------------- | ------------- | ------------- |
 | 1.2 | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v12-post-ethrome-update-basic-scoring-x-brief-sync) |
@@ -17,6 +22,11 @@ Here we track general research across all Platform related activities.
 | 1.0 (desktop) | Initial prototype built during ETHRome hackathon based on [data manifesto](https://github.com/web3privacy/data/tree/main#readme) | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype) |
 
 ## Dataset
+
+**Research purposes**
+- _Machine-readable data_: find data that can be scrapped in the future & minimise human error
+- _Human labour_: map down data that should be aggregated manually (with potential for automation)
+- _Data formats_: map down the way projects share data publicly, highlight differences that should be unified from "docs.project name" link to GitHub link in the same place (bottom of the landing)
 
 | Activity | Description | Date | Link | 
 | ------------- | ------------- | ------------- | ------------- |
@@ -30,6 +40,11 @@ Here we track general research across all Platform related activities.
 | Source database | info | Nov, 2022 | [link](https://github.com/web3privacy/web3privacy) |
 
 ## Scoring model
+
+**Research purposes**
+- _Non-techies readiness_: find, specify & map key parameters non-technical person could consider during privacy assessment
+- _Machine-readable data_: find data that can be scrapped in the future & minimise human error
+- _Communal effort_: get active community feedback on scoring - make it communal & less subjective
 
 | Activity | Description | Date | Link | 
 | ------------- | ------------- | ------------- | ------------- |
