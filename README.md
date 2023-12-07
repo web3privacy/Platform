@@ -32,6 +32,9 @@ Platform will have a huge impact on the privacy landscape
 | Scoring iterations | [link](https://github.com/web3privacy/Platform/blob/main/Research.md#scoring-model) |
 | Original idea| [link](https://github.com/web3privacy/Platform/tree/main/Web3privacynowplatform) |
 
+## Funding request
+If you want to support Web3Privacy now platform - feel free to explore grant & donation opportunities [here](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-beat)
+
 ## **Acknowledgements**
 
 Scoring model part has been supported by the Ethereum Foundation grant.
