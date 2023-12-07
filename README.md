@@ -18,9 +18,9 @@ Platform will have a huge impact on the privacy landscape
 
 | Area | Date | Link |
 | ------------- | ------------- | ------------- |
-| MVP | dec, 2023 | 1. Landing. 2. DeFi category scoring benchmark. 3. Easily upgradable Project data via GitHub. |
+| MVP | dec, 2023 | 1. Landing. 2. DeFi category scoring benchmark. 3. Easily upgradable Project data via GitHub. 4. Basic documentation. |
 | QA | jan, 2024 | 1. Bug fixing. 2. Content update. 3. Content filled by the projects themselves |
-| V 1.0 | Feb, 2024 | 1. Category expansion (200 projects). 2. Scoring model major update (built by community). 2. Content update. 3. Content filled by the projects themselves (plus moderation). |
+| V 1.0 | Feb, 2024 | 1. Category expansion (200 projects). 2. Scoring model major update (built by community). 2. Content update. 3. Content filled by the projects themselves (plus moderation). 5. Extended documentation. |
 | V 2.0 | March, 2024 | 1. Full [database](https://github.com/web3privacy/web3privacy) synchronization (600 projects). 2. Content update (actualisation). 3. Content filled by the projects themselves (plus moderation). |
 
 ## Useful links
