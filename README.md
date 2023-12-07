@@ -5,7 +5,7 @@ Main repository for the _Web3Privacy now Platform_ that will help to score priva
 
 _Web3Privacy now Platform_ - one place with the actual data-driven market overview, privacy-readiness scoring & future academy.
 
-<img src="https://github.com/web3privacy/web3privacy/raw/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20services%20DB%20x%20scoring%20(ETH%20Rome%20build).png" width="900"/>
+<img src="https://github.com/web3privacy/web3privacy/raw/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20services%20DB%20x%20scoring%20(ETH%20Rome%20build).png" width="700"/>
 
 ## Value
 Platform will have a huge impact on the privacy landscape
