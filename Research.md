@@ -53,6 +53,8 @@ Here we track general research across all [Platform](https://github.com/web3priv
 
 ## Scoring model
 
+<img src="https://github.com/web3privacy/Platform/blob/main/Web3privacynowplatform/Staticobjects/Matching%20scoring%20for%20non-techies%2C%20techies%20%26%20machines.png" width="1200"/>
+
 **Research purposes**
 - _Non-techies readiness_: find, specify & map key parameters non-technical person could consider during privacy assessment
 - _Machine-readable data_: find data that can be scrapped in the future & minimise human error
