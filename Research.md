@@ -11,6 +11,10 @@ Here we track general research across all [Platform](https://github.com/web3priv
 | DeFi category | Latest clickable prototype in sync with scoring MVP, basic data profile & DeFi category | Dec, 2023 | [link](https://web3-privacy-git-dw-tweaks-develit-io.vercel.app/category/defi) |
 | ETHRome prototype | Live demo built during ETHRome hackathon | Oct, 2023 | [link](https://web3privacy-app.vercel.app/) |
 
+## Research areas
+
+<img src="https://github.com/web3privacy/Platform/blob/main/Web3privacynowplatform/Staticobjects/Research%20areas%20for%20Explorer.png" width="900"/>
+
 ## UI
 
 **Research purposes**
@@ -26,6 +30,8 @@ Here we track general research across all [Platform](https://github.com/web3priv
 | 1.0 (desktop) | Initial prototype built during ETHRome hackathon based on [data manifesto](https://github.com/web3privacy/data/tree/main#readme) | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype) |
 
 ## Dataset
+
+<img src="https://github.com/web3privacy/Platform/blob/main/Web3privacynowplatform/Staticobjects/Data%20sources%20for%20Explorer.png" width="1200"/>
 
 **Research purposes**
 - _Machine-readable data_: find data that can be scrapped in the future & minimise human error
