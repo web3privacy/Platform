@@ -46,7 +46,7 @@ Here we track general research across all [Platform](https://github.com/web3priv
 | Data brief x Scoring model | info | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Data%20brief%20%26%20scoring%20model%20comparison.md) |
 | Data brief | info | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md#basic-info) |
 | Typeform questionaire | info | Sep, 2023 | [link](https://gy0n92ttldn.typeform.com/to/clX8HhGi) |
-| ETHRome data set concept | Machine-readable data manifest | Oct, 2023 | [link](https://github.com/web3privacy/data/tree/main#readme) |
+| ETHRome data set concept | Machine-readable data manifest | Oct, 2023 | [link](https://data.web3privacy.info) |
 | Source database | info | Nov, 2022 | [link](https://github.com/web3privacy/web3privacy) |
 
 ## Scoring model
