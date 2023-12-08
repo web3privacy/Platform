@@ -52,6 +52,7 @@ Here we track general research across all [Platform](https://github.com/web3priv
 
 | Activity | Description | Date | Link | 
 | ------------- | ------------- | ------------- | ------------- |
+| New scheme proposal by Ressac-No1 | info | Nov, 2023 | [link](https://github.com/web3privacy/Platform/blob/main/Web3privacynowplatform/scoringmodel/New%20scheme%20of%20scoring%20model.md) |
 | Scoring model for techies concept  | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Scoringmodel_techies.md) |
 | Playbook for non-techies 1.3  | info | Oct, 2023 | [link](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) |
 | DeFi category scoring x model 1.2  | info | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md) |
