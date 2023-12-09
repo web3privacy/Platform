@@ -31,6 +31,8 @@ Here we track general research across all [Platform](https://github.com/web3priv
 | 1.1 (desktop) | info | Nov, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update) |
 | 1.0 (desktop) | Initial prototype built during ETHRome hackathon based on [data manifesto](https://github.com/web3privacy/data/tree/main#readme) | Oct, 2023 | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype) |
 
+<img src="https://github.com/web3privacy/Platform/blob/main/Web3privacynowplatform/Staticobjects/UI/UI%20iterations.png" width="1200"/>
+
 ## Dataset
 
 <img src="https://github.com/web3privacy/Platform/blob/main/Web3privacynowplatform/Staticobjects/Data%20sources%20for%20Explorer.png" width="1200"/>
