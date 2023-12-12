@@ -117,6 +117,9 @@ https://t.co/PqkUJWwmPD
 * So how much money exchanged hands here? Well, the short answer here is - it's #private. 
 * Only the sender and recipient will know. There will be #zeroknowledge about it unless they choose to reveal the transaction information.
 
+## Code coverage
+Run a code coverage test
+
 # Backlog
 
 ## General
