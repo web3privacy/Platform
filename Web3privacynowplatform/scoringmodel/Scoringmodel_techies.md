@@ -80,17 +80,13 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 - How centralized are product updates?
 
 ## **Infrastructure**
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net) | + |
-| Number of nodes (the larger the footprint the best privacy) | + |
+- Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net)
+- Number of nodes (the larger the footprint the best privacy)
 
 ## **Data aggregation**
-| Scoring  | Techie |
-| ------------- | ------------- |
-| no email or tel number for signup | + |
-| does not implement KYC or AML | + |
-| What user information is stored? (username, IP address, last connection, wallets associate, etc) | + |
+- no email or tel number for signup
+- does not implement KYC or AML
+- What user information is stored? (username, IP address, last connection, wallets associate, etc)
 
 ## **3rd party libraries**
 - Audit libraries in use
@@ -99,20 +95,16 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 - What's the reputation behind security audit company?
 
 ## **Traction**
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Amount of transactions (Dune, DeFi Lama, block explorer etc) | + |
-| number of people using it | + |
+- Amount of transactions (Dune, DeFi Lama, block explorer etc)
+- number of people using it
 
 ## **Governance**
-| Scoring  | Techie |
-| ------------- | ------------- |
-| DAO structure (if applied)  | + |
-| How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance) | + |
+- DAO structure (if applied)
+- How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance) 
 
 ## **Traceability**
 
-example:
+example
 1. Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 
 2. Examine the "receipt" of that transfer on etherscan or arbiscan.  You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.
 
@@ -128,38 +120,28 @@ https://t.co/PqkUJWwmPD
 # Backlog
 
 ## General
-| Scoring  | Techie |
-| ------------- | ------------- |
-| Immutability | + |
-| Decentralised throughout, including hosting | + |
-| Permissionless & accessible to all | + |
-| Open-source | + | 
+- Immutability
+- Decentralised throughout, including hosting 
+- Permissionless & accessible to all
+- Open-source
 
 ## Privacy policy
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Privacy Policy content [Railway zero data aggregation PP](https://www.railway.xyz/privacy.html) | + |
-| Non-vague and non-intrusive privacy policy | + |
+- Privacy Policy content [Railway zero data aggregation PP](https://www.railway.xyz/privacy.html)
+- Non-vague and non-intrusive privacy policy 
 
 ## Storage
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| e2e encrypted LOCAL storage | + |
-| Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache) | + |
+- e2e encrypted LOCAL storage
+- Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache)
 
 ## Privacy execution
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| p2p / no central server | + |
-| Trustless - No ID required (this is where ZKs are useful) | + |
+- p2p / no central server
+- Trustless - No ID required (this is where ZKs are useful)
 
 **example**: "with the unirep protocol we're building an explorer that shows all the things happening in the system. So a user could see their epoch keys and attestations and see how they're distinct in the system. One thing we might do is write what can and can't be determined about the different identifiers".
 
 ## Testing
-| Scoring  | Techie |
-| ------------- | ------------- |
-| try to trace a transaction | + |
-| Other tooling to verify e.g. block explorers  | + |
+- try to trace a transaction
+- Other tooling to verify e.g. block explorers
 
 ## Advanced part
 
