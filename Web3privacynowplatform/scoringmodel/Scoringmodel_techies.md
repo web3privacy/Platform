@@ -136,6 +136,9 @@ _Firn_
 ## Code coverage
 Run a code coverage test
 
+## Check dependencies
+"You can use tools like http://npmgraph.js.org that will show you a list/graph of all dependencies of a project, if the list is too long  (+500) or the number of independent authors is too high, then there is definitely a supply-chain risk" @hazae41
+
 # Backlog
 
 ## General
