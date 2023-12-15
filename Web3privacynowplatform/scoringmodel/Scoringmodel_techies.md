@@ -104,7 +104,8 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
 ## **Traceability**
 
-example
+**example #1**
+_Railgun_
 1. Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 
 2. Examine the "receipt" of that transfer on etherscan or arbiscan.  You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.
 
@@ -116,6 +117,21 @@ https://t.co/PqkUJWwmPD
 * Try to decode the input data for the transaction? It's all #encrypted.
 * So how much money exchanged hands here? Well, the short answer here is - it's #private. 
 * Only the sender and recipient will know. There will be #zeroknowledge about it unless they choose to reveal the transaction information.
+
+**example 2**
+_Firn_
+1. Look at an existing withdrawal on Etherscan.
+     - See if you can understand why the identity of the withdrawer is hidden.
+     - see if you can understand what information is visible (zkp, timing, withdrawal amount, etc.). here's an example: https://etherscan.io/tx/0x0b070e834c040e516503c9fe435b45fa03038b68f1157253c0eddaed9d682617
+
+2. Skim through the code of all of our contracts, especially Firn.sol.
+     - try to understand the rough architecture, blackboxing for now the actual zkp.
+     - See github https://github.com/firnprotocol/contracts/blob/mainnet/Firn.sol
+     - etherscan https://etherscan.io/address/0x4ce75eafd588f36de4b4b6e15f5e4e44b2e67aa0#code
+
+3. Do a basic Firn transactions or two.
+     - open developer tools console.
+     - inspect all outbound traffic (network tab).
 
 ## Code coverage
 Run a code coverage test
