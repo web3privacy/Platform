@@ -101,7 +101,14 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
 ## **Governance**
 - DAO structure (if applied)
-- How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance) 
+- How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance)
+
+**Extended scoring 1.1**
+| Project | GitHub | Product-readiness | Team | Docs | Audit | Contributors | Licenses | Support | Score |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Test project** | available & active GitHub / not (25%) | Live or 🚧 (exclusion criteria) | public team / not (25%) | available & dev-centric docs / not (25%) | available & up to date third-party audit / not (25%) | external contributors outside of the team members | What licenses are in use | Some form of support available? (telegram, discord, forum) | TBD |
+| - | Is it in stable release, 1.0 and not an alpha or untested code? | - | Known team members | read the documentation: is it comprehensive? | Were bugs fixed? [Zokyo x Railgun_ example, p.7](https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf) | Known contributors | - | - | from 0 to 100% |
+| - | Are there many PRs and Issues pending? | Amount of transactions (Dune, DeFi Lama, block explorer etc) | How mature are core contributors (previous projects, GitHub commits)? | how well-written are privacy & security assumptions/guarantees? | Audit libraries in use: Do they have a third-party audit? | Known contributors | - | - | TBD |
 
 ## **Traceability**
 
