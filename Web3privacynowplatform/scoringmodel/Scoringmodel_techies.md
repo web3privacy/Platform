@@ -53,6 +53,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | **score** | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 100% |
 
 **Updates 1.1**
+![alt text](https://github.com/web3privacy/explorer/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Scoring%20for%20techies%20approach.png?raw=true)
 
 ## **GitHub**
 * Is it in stable release, 1.0 and not an alpha or untested code?
